@@ -1,3 +1,4 @@
 # End to End Machine Learning Project
 
-Student performance Predictor
+Student Performance Predictor 
+
